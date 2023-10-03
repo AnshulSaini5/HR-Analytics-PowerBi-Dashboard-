@@ -1,1 +1,1 @@
-hello i am problemstatement
+Enhancing organizational effectiveness by developing a sophisticated HR Analytics Dashboard to optimize employee performance and retention rates. This tailored solution aims to reduce attrition and empower the organization with data-driven insights, fostering a proactive and engaged workforce.
